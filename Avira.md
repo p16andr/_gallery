@@ -8,4 +8,6 @@ license_url: https://commons.wikimedia.org/wiki/File:Avira_RegCleaner.jpg
 licence_text: Courtsesy of wikimedia 
 categories:  
   - Μοντέλα 
+tags:
+  - Avira
 ---     
