@@ -7,6 +7,8 @@ caption: Το KDF9 ήταν ένας πρώιμος βρετανικός υπο�
 
 license_url: https://en.wikipedia.org/wiki/English_Electric_KDF9
 license_text: Courtesy of Wikipedia
-categories: Αρχέτυπα
-tags: English Electric Company Limited 
+categories: 
+ - Αρχέτυπα
+tags: 
+ - English Electric Company Limited 
 ---

@@ -8,4 +8,6 @@ license_url: https://commons.wikimedia.org/wiki/File:VirtualBox_FreeBSD_12.1_07_
 licence_text: Courtsesy of wikimedia 
 categories: 
   - Μοντέλα
+tags:
+  - FreeBSD
 ---     
